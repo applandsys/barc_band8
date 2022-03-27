@@ -23,6 +23,11 @@
     src: url(fonts/Roboto-Black.ttf);
 }
 
+@font-face {
+    font-family: Roboto-Thin;
+    src: url(fonts/Roboto-Thin.ttf);
+}
+
 
 
 
@@ -56,6 +61,14 @@ section{
     font-family: Roboto-Regular;
 }
 
+
+.punch_line_third{
+    font-weight: 900;
+    font-size: 2.1em;
+    color: #046EF9;
+    font-family: Roboto-Thin;
+    line-height: 1.2;
+}
 
 @media (max-width: 576px) { 
 
@@ -92,6 +105,22 @@ section{
     font-size: 2.8em;
     color: crimson;
     font-family: 'Roboto-Black';
+    line-height: 1.2;
+}
+
+.second_title{
+    font-size: 2.8em;
+    color: #046EF9;
+    font-family: 'Roboto-Black';
+    line-height: 1.2;
+}
+
+.blue{
+    color: #046EF9;
+}
+
+.crimson{
+    color: crimson;
 }
 
 .small_title{
@@ -100,7 +129,7 @@ section{
 }
 
 .para{
-    font-size: 21px;
+   font-size: 1.3em;;
 }
 
 .highlight{
@@ -111,10 +140,15 @@ section{
 }
 
 ul > li{
-    font-size: 24px;
     margin-top: 20px;
     margin-bottom: 20px;
     list-style-type: none;
+}
+
+ul.smalltext > li{
+    font-size: 1.2em;
+    list-style-type: none; 
+    margin-bottom: -9px;
 }
 
 .bold{
@@ -122,22 +156,18 @@ ul > li{
 }
 
 .testimonial{
-    display: flex;
     border: 1px solid #ddd;
     padding: 10px;
     border-radius: 10px;
-    margin: 15px;
+    margin: 15px;;
 }
 
 .testimonial > .review {
     padding: 12px;
     justify-content: center;
-    width: 70%;
-
 }
 
 .avatar_testimoni{
-    width: 30%;
     text-align: center;
 }
 
@@ -154,9 +184,12 @@ ul > li{
   ul li:before {    
     font-family: 'FontAwesome';
     content: '\f058';
-    margin:0 5px 0 -15px;
+    margin: 0 5px 0 -15px;
     color: #FE5740;
     margin-right: 15px;
+    display: table;
+    position: absolute;
+    margin-left: -29px;
 }
 
 .center {
@@ -165,4 +198,18 @@ ul > li{
     margin-right: auto;
     width: 50%;
   }
+
+  .size1-5{
+    font-size: 1.5em;
+  }
+
+  .size1-3{
+    font-size: 1.3em;
+  }
+
+  .blue-highlight{
+    background-color:  #3390FF;
+    color: #fff;
+  }
+  
   
