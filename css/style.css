@@ -1,0 +1,168 @@
+@font-face {
+    font-family: QuattrocentoSans-Bold;
+    src: url(fonts/QuattrocentoSans-Bold.ttf);
+}
+
+@font-face {
+    font-family: QuattrocentoSans-Regular;
+    src: url(fonts/QuattrocentoSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: Roboto-Regular;
+    src: url(fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family:Roboto-Medium;
+    src: url(fonts/Roboto-Medium.ttf);
+}
+
+@font-face {
+    font-family: Roboto-Black;
+    src: url(fonts/Roboto-Black.ttf);
+}
+
+
+
+
+body{
+    font-family: Roboto-Regular;
+}
+
+
+section{
+   
+}
+
+.punch_line{
+    font-weight: 900;
+    font-size: 4em;
+    color: crimson;
+    font-family: Roboto-Black;
+    line-height: 1.2;
+}
+
+.punch_line_thin{
+    font-weight: 900;
+    font-size: 4em;
+    color: #046EF9;
+    font-family: Roboto-Regular;
+    line-height: 1.2;
+}
+
+.sub_headeline{
+    font-size: 1.9rem;
+    font-family: Roboto-Regular;
+}
+
+
+@media (max-width: 576px) { 
+
+    .punch_line{
+        font-weight: 900;
+        font-size: 2.8em;
+        color: crimson;
+        font-family: Roboto-Black;
+        line-height: 1.2;
+
+    }
+
+
+    .punch_line_thin{
+        font-weight: 900;
+        font-size: 2.7em;
+        color: #046EF9;
+        font-family: Roboto-Regular;
+        line-height: 1.2;
+    }
+
+    .sub_headeline{
+        font-size: 1.4rem;
+        font-family: Roboto-Regular;
+    }
+
+
+
+    
+ }
+
+
+.big_title{
+    font-size: 2.8em;
+    color: crimson;
+    font-family: 'Roboto-Black';
+}
+
+.small_title{
+    font-size: 2.3em;
+    color: #2A79FC;
+}
+
+.para{
+    font-size: 21px;
+}
+
+.highlight{
+    font-size: 25px;
+    padding: 2px;
+    background-color: #FEBA3E;
+    font-weight: 600;
+}
+
+ul > li{
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    list-style-type: none;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.testimonial{
+    display: flex;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.testimonial > .review {
+    padding: 12px;
+    justify-content: center;
+    width: 70%;
+
+}
+
+.avatar_testimoni{
+    width: 30%;
+    text-align: center;
+}
+
+
+
+#btn-back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+  }
+
+
+  ul li:before {    
+    font-family: 'FontAwesome';
+    content: '\f058';
+    margin:0 5px 0 -15px;
+    color: #FE5740;
+    margin-right: 15px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
