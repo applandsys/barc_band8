@@ -17,7 +17,7 @@
     href="https://fonts.googleapis.com/css2?family=Crimson+Pro">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <title>Bandk 8 Lander</title>
   </head>
   <body>
@@ -368,9 +368,19 @@
                         <div class="col-md-4">
                             <div class="testimonial">
                                <div class="avatar_testimoni">
-                                   <div><img src="./images/gravater.svg" style="width: 100px; border-radius: 50px;"></div>
-                                   <div class="bold">The first attempt Guys</div>
-                                   <div class="">Studuent</div>
+                                       <!--  <div><img src="./images/gravater.svg" style="width: 100px; border-radius: 50px;"></div>-->
+                                   <div class="bold">Tanvir Hasnat</div>
+                                   <div class="">The first attempted guy</div>
+                                    <div class="">
+
+                                        <span class="fa fa-star oranged"></span>
+                                        <span class="fa fa-star oranged"></span>
+                                        <span class="fa fa-star oranged"></span>
+                                        <span class="fa fa-star oranged"></span>
+                                        <span class="fa fa-star oranged"></span>
+
+                                        </div>
+                                   
                                 </div>
                                 <div class="review"> 
                                     <div><p>I'm extremely happy to inform you that I received the required score on my first attempt. I began preparing for the IELTS in October 2021 and joined, so I received the desired score in four months. I received an 8 in writing and believe that without this course, I would not have passed. 
@@ -382,9 +392,18 @@
                         <div class="col-md-4">
                             <div class="testimonial">
                                <div class="avatar_testimoni">
-                                   <div><img src="./images/gravater.svg" style="width: 100px; border-radius: 50px;"></div>
-                                   <div class="bold">Got the Band I needed</div>
-                                   <div class="">Studuent</div>
+                                        <!-- <div><img src="./images/gravater.svg" style="width: 100px; border-radius: 50px;"></div>-->
+                                   <div class="bold">Sabiha Sultana</div>
+                                   <div class="">Got the Band I needed</div>
+                                   <div class="">
+
+                                        <span class="fa fa-star oranged"></span>
+                                        <span class="fa fa-star oranged"></span>
+                                        <span class="fa fa-star oranged"></span>
+                                        <span class="fa fa-star oranged"></span>
+                                        <span class="fa fa-star oranged"></span>
+
+                                   </div>
                                 </div>
                                 <div class="review"> 
                                     <div><p>Thanks for your help Finally I got the scores I needed! I've had two previous tests where I got 6 and struggled a lot to improve my writing, then I joined BARC. They helped me with proper guideline.
@@ -398,13 +417,21 @@
                         <div class="col-md-4">
                             <div class="testimonial">
                                <div class="avatar_testimoni">
-                                   <div><img src="./images/gravater.svg" style="width: 100px; border-radius: 50px;"></div>
-                                   <div class="bold">Got the Band I needed</div>
-                                   <div class="">Studuent</div>
+                                  <!-- <div><img src="./images/gravater.svg" style="width: 100px; border-radius: 50px;"></div>-->
+                                   <div class="bold">Farzad Khan</div>
+                                   <div class="">Thank you BARC for being a part of my academic and IELTS journey</div>
+                                   <div class="">
+
+                                    <span class="fa fa-star oranged"></span>
+                                    <span class="fa fa-star oranged"></span>
+                                    <span class="fa fa-star oranged"></span>
+                                    <span class="fa fa-star oranged"></span>
+                                    <span class="fa fa-star oranged"></span>
+
+                                    </div>
                                 </div>
                                 <div class="review"> 
-                                    <div><p>Thanks for your help Finally I got the scores I needed! I've had two previous tests where I got 6 and struggled a lot to improve my writing, then I joined BARC. They helped me with proper guideline.
-                                        Thanks a lot to BARC, they helped me a lot!
+                                    <div><p>I wish you all the best. Reading was the most difficult component for me, so with all of the help and amazing methods for each typ of question, I received and academic score of 8. With dedication, the correct instruction, and a strong trust in their own abilities, anyone can succeed. Best of luck to everyone
                                         </p>
                                         </div>
                                 </div>
@@ -412,57 +439,22 @@
                         </div>
                       
                     </div>
+                    
 
                     <div class="row">
-                        <div class="col-md-4">
-                            <div class="testimonial">
-                               <div class="avatar_testimoni">
-                                   <div><img src="./images/gravater.svg" style="width: 100px; border-radius: 50px;"></div>
-                                   <div class="bold">The first attempt Guys</div>
-                                   <div class="">Studuent</div>
-                                </div>
-                                <div class="review"> 
-                                    <div><p>I'm extremely happy to inform you that I received the required score on my first attempt. I began preparing for the IELTS in October 2021 and joined, so I received the desired score in four months. I received an 8 in writing and believe that without this course, I would not have passed. 
-                                        Thank you very much British American Resource Center.</p>
-                                        </div>
-                                </div>
-                            </div>    
-                        </div>
-                        <div class="col-md-4">
-                            <div class="testimonial">
-                               <div class="avatar_testimoni">
-                                   <div><img src="./images/gravater.svg" style="width: 100px; border-radius: 50px;"></div>
-                                   <div class="bold">Got the Band I needed</div>
-                                   <div class="">Studuent</div>
-                                </div>
-                                <div class="review"> 
-                                    <div><p>Thanks for your help Finally I got the scores I needed! I've had two previous tests where I got 6 and struggled a lot to improve my writing, then I joined BARC. They helped me with proper guideline.
-                                        Thanks a lot to BARC, they helped me a lot!
-                                        </p>
-                                        </div>
-                                </div>
-                            </div>    
-                        </div>
+                        <div class="col-md-6">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                    <iframe style="width: 100%; min-height: 300px" class="embed-responsive-item" title="YouTube video player" src="https://www.youtube.com/embed/PSHFHdhAtTQ" allowfullscreen=""></iframe>
+                            </div>
+                        </div>    
+                        <div class="col-md-6">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                    <iframe style="width: 100%;  min-height: 300px"  class="embed-responsive-item" title="YouTube video player" src="https://www.youtube.com/embed/W7qKb-4Xal" allowfullscreen=""></iframe>
+                            </div>
+                        </div>  
+                    </div>    
 
-                        <div class="col-md-4">
-                            <div class="testimonial">
-                               <div class="avatar_testimoni">
-                                   <div><img src="./images/gravater.svg" style="width: 100px; border-radius: 50px;"></div>
-                                   <div class="bold">Got the Band I needed</div>
-                                   <div class="">Studuent</div>
-                                </div>
-                                <div class="review"> 
-                                    <div><p>Thanks for your help Finally I got the scores I needed! I've had two previous tests where I got 6 and struggled a lot to improve my writing, then I joined BARC. They helped me with proper guideline.
-                                        Thanks a lot to BARC, they helped me a lot!
-                                        </p>
-                                        </div>
-                                </div>
-                            </div>    
-                        </div>
-                      
-                    </div>
-
-
+    
                     <div class="my-4"><a class="btn btn-primary btn-lg register_now" href="#registration_point">Register Now</a></div>
 
                 </div>
@@ -472,11 +464,11 @@
 
             
         <div>
-            <section class="my-10" style="">
+            <section class="" style="">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8 mx-auto">
-                            <div class="my-5">
+                            <div class="">
                                 <h2 class="big_title"> Four steps to achieve BAND 8 </h2>
                             </div>
                             <img src="./images/delicious-vietnamese-food.jpg" style="width: 100%">
@@ -485,7 +477,7 @@
 
                                 <p class="para">
                                     <p class="bold size1-5">Step 1:</p> 
-                                    <p class="bold size1-3">Like a formal dinner, our course begins with a <span class="blue">perfect starter,</span> like having a bowl of soup. </p>
+                                    <p class="bold size1-3">Like a formal dinner, our course begins with a perfect  <span class="blue bold"> starter,</span> like having a bowl of soup. </p>
                                     <p class="para  size1-3">
                                         At this level, you will have extensive drills on the <span class="blue bold"> grammar and vocabulary </span>  required for IELTS.
                                     </p> 
@@ -494,7 +486,7 @@
                                  <p class="para">
                                     <p class="bold size1-5">Step 2:</p> 
                                     <p class="bold size1-3">   
-                                         Next, you will get an <span class="blue"> appetizer course </span>. This level will be your first stepping stone to your actual IELTS preparation.
+                                         Next, you will get an <span class="blue"> Appetizer</span> course. This level will be your first stepping stone to your actual IELTS preparation.
                                     </p>
                                     <p class="size1-3">
                                         The way an appetizer stimulates your appetite, this level defines <span class="blue bold">  how far you are </span> going to get in your real IELTS exam.
@@ -512,7 +504,7 @@
                                  <p class="para">
                                     <p class="bold size1-5">Step 4:</p> 
                                     <p class="bold size1-3"> 
-                                         Finally, the <span class="blue bold"> perfect finisher. </span> This is where everything is happening.
+                                         Finally, the  perfect <span class="blue bold"> Finisher. </span> This is where everything is happening.
                                     </p>
                                     <p class="para  size1-3">
                                          In this course,  you will know all the   <span class="bold blue">secret strategies</span> and the  tremendous   skill</span>  of <span class="bold blue"> time management  </span> to fight the odds of IELTS.
@@ -641,6 +633,7 @@
                           <section class="my-5">  
                             <div class="row ">
                                 <div class="col-md-6">
+                                    
                                     <div>
                                         <img src="./images/main_course.jpg" style="width: 100%">
                                     </div>     
@@ -655,7 +648,7 @@
                                             All your skills will now come to play their highest roles as you are gradually getting closer to 8. 
                                       </p>      
                                       <p class="para  size1-3">
-                                        By this time, you are familiar with 14 different types of <span class="bold crimson"> reading questions , writing tasks </span> like essays, letters, and charts, more <span class="bold crimson"> advanced use of </span> collocation, cohesion, listening tips and tricks, and dozens of speaking cue cards to finish it off.. 
+                                        By this time, you are familiar with 14 different types of <span class="bold crimson"> reading questions, writing tasks </span> like essays, letters, and charts, more <span class="bold crimson"> advanced use of </span> collocation, cohesion, listening tips and tricks, and dozens of speaking cue cards to finish it off.. 
     
                                   </p> 
                                 </div>
@@ -736,17 +729,18 @@
           </section>
         </div>
 
-        <div>
+        <div style="">
             <section class="my-5">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8 mx-auto">
                             <div class="">
-                                <h2 class="text-center big_title">Pricing options</h5>
+                                <h2 class="text-center big_title">WHAT 24,500 TAKA WILL DO FOR YOU?</h5>
                             </div>
 
                             <div>
-                               Price is not defianed yet  
+                                <p class="para size1-5 text-center">  We understand that 24,500 taka is a significant sum of money, especially in light of the Covid scenario. However, this is a once-in-a-lifetime opportunity to improve your life. You'll go another step further toward your dreams. You will get a 120-day study plan, 10+ mock tests in an actual IELTS exam setting, one-on-one support, and the ability to speak, interpret and write English correctly. Is there anything else you require?
+Don't be hesitant. Complete the form.</p>
                             </div>
                         </div> 
                     </div>   
@@ -762,33 +756,50 @@
                     <div class="row my-5">
                         <div class="col-md-6 mx-auto">
                             <div class="mt-5">
-                                <h2 class="text-center big_title">FILL THE FORM TO CONTACT US</h5>
+                                <h2 class="text-center big_title">Fill the form to contact us</h5>
                             </div>
                             <div class="card">
                                 <div class="card-body">
-                                    <form>
+
+
+                                
+
+                                <div id="order_form">
+                                </div>
+
+                             
+
+
+                                    <form id="order_now_form" method="POST">
                                         <div class="mb-3">
                                             <label class="form-label" for="name">Name</label>
-                                            <input type="text" class="form-control" id="name" placeholder="Your Name">
+                                            <input type="text" class="form-control" id="name" placeholder="Your Name" required>
                                         </div>
                                         <div class="mb-3">
                                             <label class="form-label" for="email">Email</label>
-                                            <input type="email" class="form-control" id="email" placeholder="Your Email">
+                                            <input type="email" class="form-control" id="email" placeholder="Your Email" required>
                                         </div>
                                         <div class="mb-3">
                                             <label class="form-label" for="phone">Phone</label>
-                                            <input type="text" class="form-control" id="phone" placeholder="Your Phone Number">
+                                            <input type="text" class="form-control" id="phone" placeholder="Your Phone Number" required>
                                         </div>
 
                                         <div class="mb-3">
-                                            <label class="form-label" for="phone">Address</label>
-                                            <textarea  class="form-control"></textarea>
+                                            <label class="form-label" for="phone" >Address</label>
+                                            <textarea  class="form-control" id="address"></textarea>
                                         </div>
                                  
                                         <div class="text-center"><button type="submit" class="btn btn-primary">Submit</button></div>
                                     </form>
                                 </div>   
-                            </div>    
+                            </div>   
+                            <br/>
+                            <div class="card">
+                                <div class="card-body">
+                                    <h2 class="text-center crimson bold" style="font-size: 1.em">☎️ Hotline:   01617-302012</h2>
+                                </div>
+                            </div>
+
                         </div>   
                     </div>
                 </div>
@@ -796,7 +807,7 @@
         </div>
 
 
-        <div>
+        <div style="display: none">
             <section class="my-5">
                 <div class="container">
                     <div class="row my-5">
@@ -880,10 +891,6 @@
         </div>
 
 
-        
-        
-
-
         <footer class="footer mt-auto py-3 bg-light">
             <div class="container">
               <span class="text-muted">British American Resource Center. &copy; All right reserved</span>
@@ -898,12 +905,51 @@
         id="btn-back-to-top"
         >
         <i class="fas fa-arrow-up"></i>
-        </button>
-
-          
-          
-
+        </button> 
+        
     <script src="./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" type="module"  crossorigin="anonymous"></script>
+
+
+
+    <script>
+        $(document).ready(function(){
+
+         
+            $("#order_now_form").submit(function(e){
+                e.preventDefault();
+
+                let name    = $("#name").val();
+                let email   = $("#email").val();
+                let phone   = $("#phone").val();
+                let address = $("#address").val();
+
+           
+                const BASE_URL = "https://hellobarc.com/api/landing-register";
+
+                $.ajax({
+                        type: "POST",
+                        url: BASE_URL,
+                        data: {"name":name,"email":email,"phone":phone,"address":address},
+                        success: function(response){
+                            console.log(response);
+                            $("#order_form").html(`<div class="alert alert-success" role="alert">
+                                                              Thanks for your Registration. We will proceed soon.
+                                                    </div>`);
+
+                            $("#order_now_form").trigger("reset");
+
+                        },
+                        error: function(error){
+                            console.log(error);
+                        }
+                    });
+
+            });
+
+           
+        });
+        </script> 
+
 
 
 
