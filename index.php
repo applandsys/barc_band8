@@ -54,13 +54,13 @@
                                 font-size: 1em;">
                                <span style="font-weight: bold; font-size: 1.3em"> Dear Learners,</span> <br/>
                                 Greetings from the British American Resource Center! <br/>
-                                <span style="opacity: 0.5; font-size: 0.9em"><?php echo date("M d, Y"); ?></span>
+                                <span style="font-size: 0.9em; font-weight: bold"><?php echo date("M d, Y"); ?></span>
 
                             </p>
 
                             </div>    
                             <div>
-                                <h2 class="big_title">Let's learn, how to get a Band 8 in IELTS</h2>
+                                <h2 class="big_title">Learn now ! Learn how to get a Band 8 in IELTS </h2>
                             </div>  
                             <div>
                                 <p class="para bold" style="font-size: 1.5em;">
@@ -231,7 +231,7 @@
                                         <p class="para">
                                             <ul>
                                                 <li>Compete as a <span class="bold blue">top candidate </span> for immigration to the UK, USA, Canada, Australia.</li>
-                                                <li>Get <span class="bold blue">scholarship </span> from  Oxford and Cambridge and Ivy-League like Harvard and MIT.</li>
+                                                <li>Get <span class="bold blue">scholarship </span> from top Universities.</li>
                                                 <li>Be <span class="bold blue">fluent in English </span>like native speakers.</li>
                                                 <li>Develop strong <span class="bold blue">reading and writing skills.</span></li>
                                                 <li>Understand <span class="bold blue">native conversations</span> with ease.</li>
@@ -256,7 +256,7 @@
                     <div class="row">
                         <div class="col-md-8 col-sm-10 col-xs-12 mx-auto">
                             <div class="pt-5">
-                                <h2 class="big_title">Going Abroad  Made Easy. Because
+                                <h2 class="big_title">Going Abroad  Made Easy, because:
                                 </h2>
                             </div>
                             <div class="pt-5 mx-auto">
@@ -285,7 +285,8 @@
                                                 <span class="bold size1-3"> We also know it’s your <span class="blue"> one-way ticket </span> to places like Harvard and Oxford.</span> 
                                             </p>
                                             <p class="size1-3">
-                                                <span> Going to Harvard and Oxford is an uphill task. <p class="size1-3">Many wish for it, but only a few can actually make it. So, all we want is your time and your serious effort.  We will take care of the rest. </p><p class="size1-3"> We are dead serious about it. Are you? </p></span>
+                                                <span> Going to Harvard and Oxford is an uphill task. <p class="size1-3">Many wish for it, but only a few can actually make it. So, all we want is your time and your serious effort.  We will take care of the rest. </p>
+                                                <p class="size1-3 blue"> We are dead serious about it. Are you? </p></span>
                                             </p>
                                         </li>
                                     </ul>  
@@ -359,7 +360,7 @@
                     <div class="row">
                         <div class="col-md-8 col-sm-10 col-xs-12 mx-auto">
                             <div class="">
-                                <h2 class="big_title">See why 1000s of people are raving about this course.
+                                <h2 class="big_title">See why thousands of people are raving about this course.
                                 </h2>
                             </div>    
                         </div>
@@ -449,7 +450,7 @@
                         </div>    
                         <div class="col-md-6">
                             <div class="embed-responsive embed-responsive-16by9">
-                                    <iframe style="width: 100%;  min-height: 300px"  class="embed-responsive-item" title="YouTube video player" src="https://www.youtube.com/embed/W7qKb-4Xal" allowfullscreen=""></iframe>
+                                    <iframe style="width: 100%;  min-height: 300px"  class="embed-responsive-item" title="YouTube video player" src="https://www.youtube.com/embed/W7qKb-4XalE" allowfullscreen=""></iframe>
                             </div>
                         </div>  
                     </div>    
@@ -544,7 +545,7 @@
                                         <h5 class="second_title">STARTER</h5>
                                     </div> 
                                    
-                                        <p class="para bold size1-5">
+                                        <p class="para bold size1-3">
                                             I know you all have one common question: How can I improve my  grammar and vocabulary  for my IELTS prep? 
                                         </p>    
                                         <p class="para bold size1-3">
@@ -565,6 +566,18 @@
                                         </figure>
 
                                            
+                                        </p>
+
+                        
+
+                                        <p class="para  size1-5">
+                                            At this level you are going to master:
+                                            <ul class="size1-5"> 
+                                            <li>  Upper Intermediate grammar</li>
+                                            <li>  Upper Intermediate vocabulary</li>
+                                            <li>  Advanced use of collocations </li>
+                                            <li>  Advanced level common mistakes</li>
+                                            </ul> 
                                         </p>
                                        
                                 </div>
@@ -592,7 +605,7 @@
                                 <div>
                                         <h5 class="second_title">APPETIZER</h5>
                                     </div> 
-                                        <p class="para bold size1-5">
+                                        <p class="para bold size1-3">
                                             Once you refresh your grammar and vocabulary, it’s time to go to the next level of your IELTS prep.   
                                         </p>
                                         <p class="para bold size1-3">
@@ -624,9 +637,14 @@
                                     <p class="para">
                                         As you know, <span class="blue-highlight">paragraphs are the main components of your essay, </span> you first need to understand how to write a <span class="crimson bold">perfect paragraph,</span> and at this level, you're going to learn all the <span class="crimson bold">advanced tools </span>for paragraph writing. 
                                       </p> 
-                                    <p class="para"> Your knowledge of grammar and vocabulary will play a vital role in sharpening your skills further.      </p> 
-                                      
-
+                                        <p class="para  size1-5"> At this level you are going to master:
+                                            <ul class="size1-5">   
+                                                <li>  Advanced paragraph writing    </li>
+                                                <li>  Use of grammar and vocabulary in writing and speaking modules </li>
+                                                <li>  More than 100 speaking question answers and 30 cue cards model answers </li>
+                                                <li>  Paraphrases for IELTS reading </li>
+                                            </ul>          
+                                        </p> 
                                 </div>        
                             </div>
                             
@@ -642,15 +660,27 @@
                                     <div>
                                         <h5 class="second_title">MAIN COURSE</h5>
                                     </div> 
-                                    <p class="para bold size1-5">
+                                    <p class="para bold size1-3">
                                         You are about to get into the complicated zones of IELTS.  </p>
                                      <p class="para bold size1-3">
                                             All your skills will now come to play their highest roles as you are gradually getting closer to 8. 
                                       </p>      
                                       <p class="para  size1-3">
                                         By this time, you are familiar with 14 different types of <span class="bold crimson"> reading questions, writing tasks </span> like essays, letters, and charts, more <span class="bold crimson"> advanced use of </span> collocation, cohesion, listening tips and tricks, and dozens of speaking cue cards to finish it off.. 
-    
-                                  </p> 
+                                        </p>
+
+                                        <p class="para  size1-5">  At this level, you are going to be familiar with :
+                                            <ul class="size1-5">   
+                                                <li>   14 different types of IELTS Reading questions  </li>
+                                                <li> 5 different Essay writing formats</li>
+                                                <li>Formal and informal letters for GT candidates, and 
+Bar charts, Pie charts, Bar graph, Line graph </li>
+                                                <li>    Cohesion and Coherence </li>
+                                                <li>   20 cue cards model answers and 30 discussion type model answers </li>
+                                                <li>   Listening Tips and Tricks</li>
+                                            </ul>          
+                                        </p> 
+                                        
                                 </div>
                             </div>
                             </section>  
@@ -673,6 +703,15 @@
                                       <p  class="para size1-5">
                                         All your skills will now come to play their highest roles. By this time you are very close to 8.
                                      </p>
+
+                                     <p class="para  size1-5">  At this level you are going to practice:
+                                            <ul class="size1-5">   
+                                                <li>   Almost 600 reading questions   </li>
+                                                <li>  Almost 400 listening questions </li>
+                                                <li> 30 short writing tasks and 10 full length writing tasks </li>
+                                                <li>    25 speaking tasks and 5 full length speaking test</li>
+                                            </ul>          
+                                        </p> 
                                 </div>
                             </div>
 
@@ -696,32 +735,28 @@
                             </div>
 
                             <div>
-                                <ul>
-                                    <li>Assessment test </li>
-                                    <li>120 days strategic plan for ultimate success. </li>
-                                    <li>Learning path designed for band 8 </li>
-                                    <li>CEFR (Common European Framework References) Guidelines </li>
-                                    <li>Mock Tests </li>
-                                    <li>In-depth knowledge about IELTS </li>
-                                    <li>Grammar brushup </li>
-                                    <li>Perfect Vocabulary lesson for band 8 </li>
-                                    <li>Developing paragraphs in both writing and speaking </li>
-                                    <li>14 different types of reading questions,  </li>
-                                    <li>Writing tasks like essays, letters, and charts,  </li>
-                                    <li>Advanced use of collocation </li>
-                                    <li>Cohesion </li>
-                                    <li>Listening tips and tricks, and  </li>
-                                    <li>Dozens of speaking cue cards </li>
-                                    <li>Practice sessions </li>
-                                    <li>Skimming and Scanning </li>
-                                    <li>Time management Skill </li>
-                                    <li>Lexical Resource </li>
-                                    <li>Fluency and Coherence </li>
-                                    <li>Peonunciation </li>
-                                    <li>Active Listening Techniques </li>
-                                    <li>Resources to practice listening </li>
-                                    <li>Intensive care </li>
-                                </ul>    
+                                <p class="para  size1-5">  
+                                    <ul class="size1-5"> 
+                                        <li>120-day Strategic Plan for your Ultimate Success   </li>
+                                        <li> Total Duration of the Course 3 Months (200 hours plus)</li>
+                                        <li>Classes: 96 Hours</li>
+                                        <li>Assignment: 104 Hours</li>
+                                        <li> Pre-assessment Test</li>
+                                        <li> Learning Path Designed for Band 8</li>
+                                        <li> More than 100 Partial Tests</li>
+                                        <li> In-depth Knowledge about IELTS</li>
+                                        <li> Upper Intermediate to Advanced level Grammar brushup</li>
+                                        <li>Perfect Vocabulary lesson for band 8</li>
+                                        <li>Ultimate Paragraph writing strategies</li>
+                                        <li> Developing Concept for Essay writing</li>
+                                        <li> Mastering 14 different types of reading questions </li>
+                                        <li> Separate GT and Academic writing task lessons</li>
+                                        <li> Advanced use of collocation</li>
+                                        <li> Listening tips and tricks</li>
+                                        <li> CEFR (Common European Framework References) Guidelines</li>
+                                        <li> Intensive CARE unit for your full time support</li>
+                                    </ul>          
+                                </p>  
                             </div>
                         </div> 
                     </div>   
@@ -735,11 +770,11 @@
                     <div class="row">
                         <div class="col-md-8 mx-auto">
                             <div class="">
-                                <h2 class="text-center big_title">WHAT 24,500 TAKA WILL DO FOR YOU?</h5>
+                                <h2 class="text-center big_title">YOUR INVESTMENT IS ONLY 24,500/- </h5>
                             </div>
 
                             <div>
-                                <p class="para size1-5 text-center">  We understand that 24,500 taka is a significant sum of money, especially in light of the Covid scenario. However, this is a once-in-a-lifetime opportunity to improve your life. You'll go another step further toward your dreams. You will get a 120-day study plan, 10+ mock tests in an actual IELTS exam setting, one-on-one support, and the ability to speak, interpret and write English correctly. Is there anything else you require?
+                                <p class="para size1-5">  We understand that 24,500 taka is a significant sum of money, especially in light of the Covid scenario. However, this is a once-in-a-lifetime opportunity to improve your life. You'll go another step further toward your dreams. You will get a 120-day study plan, more than 100 partial Tests,  one-on-one support, and the ability to speak, interpret and write English correctly. </p>  <p class="para size1-5 blue"> Is there anything else you require?
 Don't be hesitant. Complete the form.</p>
                             </div>
                         </div> 
