@@ -774,7 +774,7 @@ Bar charts, Pie charts, Bar graph, Line graph </li>
                             </div>
 
                             <div>
-                                <p class="para size1-5">  We understand that 24,500 taka is a significant sum of money, especially in light of the Covid scenario. However, this is a once-in-a-lifetime opportunity to improve your life. You'll go another step further toward your dreams. You will get a 120-day study plan, more than 100 partial Tests,  one-on-one support, and the ability to speak, interpret and write English correctly. </p>  <p class="para size1-5 blue"> Is there anything else you require?
+                                <p class="para size1-5">  We understand that 24,500/- is a significant sum of money, especially in light of the Covid scenario. However, this is a once-in-a-lifetime opportunity to improve your life. You'll go another step further toward your dreams. You will get a 120-day study plan, more than 100 partial Tests,  one-on-one support, and the ability to speak, interpret and write English correctly. </p>  <p class="para size1-5 blue"> Is there anything else you require?
 Don't be hesitant. Complete the form.</p>
                             </div>
                         </div> 
